@@ -1,0 +1,12 @@
+# Todo:
+
+- DONE The modules/setup.
+- DONE Search setup.
+- DONE Search bar.
+- DONE Home component.
+- DONE Routes.
+- DONE Http.
+- DONE typescript models.
+- DONE Http interceptors.
+- Home component.
+- Sort menu.
